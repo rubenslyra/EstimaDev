@@ -11,6 +11,14 @@ Bem-vindo ao projeto EstimaDev, um aplicativo poderoso para auxiliar equipes de 
 - **Importação de Dados**: Importe facilmente estimativas a partir de arquivos CSV.
 - **Segurança e Privacidade**: O EstimaDev mantém a segurança dos dados e está em conformidade com a LGPD (Lei Geral de Proteção de Dados) do Brasil.
 
+## Desenvolvedor
+
+Este projeto é mantido por [Rubens Lyra](https://github.com/rubenslyra).
+
+## Vídeo no YouTube
+
+Confira nosso canal no YouTube para tutoriais e informações adicionais sobre o EstimaDev: [@DevResolve, Rubens Lyra](https://www.youtube.com/@devresolve).
+
 ## Como Contribuir
 
 Se você deseja contribuir para o desenvolvimento do EstimaDev, fique à vontade para abrir problemas (issues) e enviar pull requests. Estamos ansiosos para colaborar com você e tornar o EstimaDev ainda melhor.
@@ -18,3 +26,6 @@ Se você deseja contribuir para o desenvolvimento do EstimaDev, fique à vontade
 ## Licença
 
 Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+
+Certifique-se de substituir `[Nome do Desenvolvedor]` pelo nome do desenvolvedor ou proprietário real do projeto, bem como `[https://github.com/nome-do-desenvolvedor]` pelo link do perfil do GitHub do desenvolvedor. Também adicione o link correto para o canal do YouTube no espaço `[https://www.youtube.com/c/seu-canal-no-youtube]`.
