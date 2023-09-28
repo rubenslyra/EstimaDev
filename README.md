@@ -26,6 +26,3 @@ Se você deseja contribuir para o desenvolvimento do EstimaDev, fique à vontade
 ## Licença
 
 Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-
-Certifique-se de substituir `[Nome do Desenvolvedor]` pelo nome do desenvolvedor ou proprietário real do projeto, bem como `[https://github.com/nome-do-desenvolvedor]` pelo link do perfil do GitHub do desenvolvedor. Também adicione o link correto para o canal do YouTube no espaço `[https://www.youtube.com/c/seu-canal-no-youtube]`.
