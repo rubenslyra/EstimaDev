@@ -2,7 +2,11 @@
 
 Bem-vindo ao projeto EstimaDev, um aplicativo poderoso para auxiliar equipes de desenvolvimento na estimativa de projetos de software. A versão 2.0 do EstimaDev apresenta melhorias significativas, incluindo integração de pagamento, geração de relatórios detalhados, suporte à língua portuguesa e conformidade com as regulamentações brasileiras de privacidade.
 
-## Funcionalidades Principais
+# Como é Hoje
+
+<img width="895" alt="Captura de tela 2023-09-30 220923" src="https://github.com/rubenslyra/EstimaDev/assets/37023108/da5e1a55-d7ad-4a9d-815e-69e973dfebc3">
+
+## Funcionalidades Principais a Serem Adicionadas
 
 - **Internacionalização**: O EstimaDev suporta os idiomas português (brasileiro) e inglês, para atender à diversidade de usuários.
 - **Integração de Pagamento**: Acesse recursos premium com facilidade, aproveitando a integração de pagamento.
