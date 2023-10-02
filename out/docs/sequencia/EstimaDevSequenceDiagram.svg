@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="466px" preserveAspectRatio="none" style="width:630px;height:466px;background:#FFFFFF;" version="1.1" viewBox="0 0 630 466" width="630px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="27.6094" id="_title" style="stroke:none;stroke-width:1.0;" width="262" x="183.25" y="10"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="252" x="188.25" y="29.5332">EstimaDev - Diagrama de Sequência</text><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="55" x2="55" y1="121.2188" y2="384.0313"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="178" x2="178" y1="121.2188" y2="384.0313"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="304" x2="304" y1="121.2188" y2="384.0313"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="434" x2="434" y1="121.2188" y2="384.0313"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="567.5" x2="567.5" y1="121.2188" y2="384.0313"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="5" y="118.1426">Desenvolvedor</text><ellipse cx="55.5" cy="52.1094" fill="#E2E2F0" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M55.5,60.1094 L55.5,87.1094 M42.5,68.1094 L68.5,68.1094 M55.5,87.1094 L42.5,102.1094 M55.5,87.1094 L68.5,102.1094 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="5" y="397.5645">Desenvolvedor</text><ellipse cx="55.5" cy="409.1406" fill="#E2E2F0" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M55.5,417.1406 L55.5,444.1406 M42.5,425.1406 L68.5,425.1406 M55.5,444.1406 L42.5,459.1406 M55.5,444.1406 L68.5,459.1406 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><rect fill="#E2E2F0" height="31.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="124" x="116" y="88.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="123" y="110.1426">UsuarioController</text><rect fill="#E2E2F0" height="31.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="124" x="116" y="383.0313"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="123" y="404.5645">UsuarioController</text><rect fill="#E2E2F0" height="31.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="109" x="250" y="88.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="257" y="110.1426">UsuarioService</text><rect fill="#E2E2F0" height="31.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="109" x="250" y="383.0313"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="257" y="404.5645">UsuarioService</text><rect fill="#E2E2F0" height="31.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="130" x="369" y="88.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="376" y="110.1426">UsuarioRepository</text><rect fill="#E2E2F0" height="31.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="130" x="369" y="383.0313"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="376" y="404.5645">UsuarioRepository</text><rect fill="#E2E2F0" height="31.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="113" x="511.5" y="88.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="518.5" y="110.1426">BancoDeDados</text><rect fill="#E2E2F0" height="31.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="113" x="511.5" y="383.0313"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="518.5" y="404.5645">BancoDeDados</text><polygon fill="#181818" points="166,149.5703,176,153.5703,166,157.5703,170,153.5703" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="55.5" x2="172" y1="153.5703" y2="153.5703"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="71" x="62.5" y="148.7139">Listar Todos</text><polygon fill="#181818" points="292.5,179.9219,302.5,183.9219,292.5,187.9219,296.5,183.9219" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="178" x2="298.5" y1="183.9219" y2="183.9219"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="185" y="179.0654">ListarTodos()</text><polygon fill="#181818" points="422,210.2734,432,214.2734,422,218.2734,426,214.2734" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="304.5" x2="428" y1="214.2734" y2="214.2734"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="311.5" y="209.417">ObterTodos()</text><polygon fill="#181818" points="556,240.625,566,244.625,556,248.625,560,244.625" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="434" x2="562" y1="244.625" y2="244.625"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="81" x="441" y="239.7686">Consulta SQL</text><polygon fill="#181818" points="445,270.9766,435,274.9766,445,278.9766,441,274.9766" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="439" x2="567" y1="274.9766" y2="274.9766"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="110" x="451" y="270.1201">Dados de Usuários</text><polygon fill="#181818" points="315.5,301.3281,305.5,305.3281,315.5,309.3281,311.5,305.3281" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="309.5" x2="433" y1="305.3281" y2="305.3281"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="51" x="321.5" y="300.4717">Usuários</text><polygon fill="#181818" points="189,331.6797,179,335.6797,189,339.6797,185,335.6797" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="183" x2="303.5" y1="335.6797" y2="335.6797"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="51" x="195" y="330.8232">Usuários</text><polygon fill="#181818" points="66.5,362.0313,56.5,366.0313,66.5,370.0313,62.5,366.0313" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="60.5" x2="177" y1="366.0313" y2="366.0313"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="55" x="72.5" y="361.1748">Resposta</text><!--MD5=[0579adb50319ed4b5073e20762a5b31f]
+@startuml EstimaDevSequenceDiagram
+
+!define CONTROLLER participant
+!define SERVICE participant
+!define DOMAIN participant
+!define ACTOR actor
+!define DATABASE database
+
+title EstimaDev - Diagrama de Sequência
+
+actor Desenvolvedor
+participant UsuarioController
+participant UsuarioService
+participant UsuarioRepository
+participant BancoDeDados
+
+Desenvolvedor -> UsuarioController : Listar Todos
+UsuarioController -> UsuarioService : ListarTodos()
+UsuarioService -> UsuarioRepository : ObterTodos()
+UsuarioRepository -> BancoDeDados : Consulta SQL
+BancoDeDados - -> UsuarioRepository : Dados de Usuários
+UsuarioRepository - -> UsuarioService : Usuários
+UsuarioService - -> UsuarioController : Usuários
+UsuarioController - -> Desenvolvedor : Resposta
+
+@enduml
+
+@startuml EstimaDevSequenceDiagram
+
+
+title EstimaDev - Diagrama de Sequência
+
+actor Desenvolvedor
+participant UsuarioController
+participant UsuarioService
+participant UsuarioRepository
+participant BancoDeDados
+
+Desenvolvedor -> UsuarioController : Listar Todos
+UsuarioController -> UsuarioService : ListarTodos()
+UsuarioService -> UsuarioRepository : ObterTodos()
+UsuarioRepository -> BancoDeDados : Consulta SQL
+BancoDeDados - -> UsuarioRepository : Dados de Usuários
+UsuarioRepository - -> UsuarioService : Usuários
+UsuarioService - -> UsuarioController : Usuários
+UsuarioController - -> Desenvolvedor : Resposta
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 14:01:30 BRT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: BR
+--></g></svg>
