@@ -1,7 +1,3 @@
-Certamente, aqui está um exemplo de documento que descreve o objetivo da aplicação final, sua operação, regras de negócio, seção de requisitos e informações sobre o desenvolvedor @rubenslyra:
-
----
-
 # Descrição da Aplicação EstimaDev
 
 ## Objetivo
@@ -42,13 +38,19 @@ A aplicação EstimaDev segue as seguintes regras de negócio:
 
 A aplicação EstimaDev tem os seguintes requisitos:
 
-1. **Backend**: A aplicação é desenvolvida em C#/.NET Core 6.0, com um banco de dados SQL Server.
+- **Backend:**
+  - Tecnologia: C#/.NET Core
+  - Versão do .NET Core: 6.0
+  - Banco de Dados: SQL Server
+  
+- **Frontend:**
+  - Tecnologia: Angular
 
-2. **Frontend**: O frontend é desenvolvido usando tecnologias web modernas, como Angular.
-
-3. **Segurança**: A segurança é uma prioridade, com autenticação e autorização baseadas em JWT (JSON Web Tokens).
-
-4. **Cache**: Utiliza o Redis como mecanismo de cache para melhorar o desempenho.
+- **Segurança:**
+  - Autenticação e Autorização: JWT (JSON Web Tokens)
+  
+- **Cache:**
+  - Redis como mecanismo de cache
 
 ## Sobre o Desenvolvedor
 
@@ -58,7 +60,3 @@ A aplicação EstimaDev tem os seguintes requisitos:
 - **YouTube:** [Canal de YouTube de Rubens Lyra](https://www.youtube.com/user/rubenslyra)
 
 Rubens Lyra é um desenvolvedor experiente com uma paixão por criar aplicativos eficientes e de alta qualidade. Ele tem um extenso histórico de contribuições para projetos de código aberto e compartilha seu conhecimento com a comunidade por meio de tutoriais e vídeos educacionais.
-
----
-
-Este documento fornece uma visão geral da aplicação EstimaDev, suas operações, regras de negócio, requisitos e informações sobre o desenvolvedor Rubens Lyra. A aplicação EstimaDev é uma ferramenta poderosa para o gerenciamento de projetos de desenvolvimento de software e reflete o compromisso com a qualidade e a eficiência do desenvolvedor Rubens Lyra.
