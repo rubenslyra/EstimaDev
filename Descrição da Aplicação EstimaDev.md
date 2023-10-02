@@ -58,5 +58,3 @@ A aplicação EstimaDev tem os seguintes requisitos:
 - **LinkedIn:** [LinkedIn de Rubens Lyra](https://www.linkedin.com/in/rubenslyra)
 - **GitHub:** [GitHub de Rubens Lyra](https://github.com/rubenslyra)
 - **YouTube:** [Canal de YouTube de Rubens Lyra](https://www.youtube.com/user/rubenslyra)
-
-Rubens Lyra é um desenvolvedor experiente com uma paixão por criar aplicativos eficientes e de alta qualidade. Ele tem um extenso histórico de contribuições para projetos de código aberto e compartilha seu conhecimento com a comunidade por meio de tutoriais e vídeos educacionais.
